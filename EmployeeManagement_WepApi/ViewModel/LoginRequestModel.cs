@@ -1,0 +1,8 @@
+﻿namespace EmployeeManagement_WepApi.ViewModel
+{
+    public class LoginRequestModel
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}
